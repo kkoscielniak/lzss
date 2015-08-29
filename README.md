@@ -1,2 +1,2 @@
 # lzss
-simple LZSS implementation in JS for academic classes
+simple LZSS algorithm implementation JS for academic classes.

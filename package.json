@@ -17,8 +17,6 @@
   },
   "homepage": "https://github.com/kkoscielniak/lzss",
   "devDependencies": {
-    "byline": "^4.2.1",
-    "js-array-extensions": "^1.0.8",
     "nodemon": "^1.4.1"
   }
 }
