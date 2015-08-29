@@ -1,13 +1,7 @@
 require('./prototypes');
-require('js-array-extensions');
-
 
 var fs = require('fs'),
     encoder = require('./encoder');
-
-var liveOutput = false;
-    
-
 
 var fileContent,
     dictionary;
