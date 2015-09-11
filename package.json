@@ -10,7 +10,7 @@
     "type": "git",
     "url": "https://github.com/kkoscielniak/lzss.git"
   },
-  "author": "Krystian Koscielniak",
+  "author": "Krystian Koscielniak & Michal Sobolewski",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/kkoscielniak/lzss/issues"
